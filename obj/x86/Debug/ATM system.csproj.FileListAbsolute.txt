@@ -1,0 +1,6 @@
+c:\users\elliot\documents\visual studio 2010\Projects\ATM system\ATM system\bin\Debug\ATM system.exe
+c:\users\elliot\documents\visual studio 2010\Projects\ATM system\ATM system\bin\Debug\ATM system.pdb
+c:\users\elliot\documents\visual studio 2010\Projects\ATM system\ATM system\obj\x86\Debug\ATM system.exe
+c:\users\elliot\documents\visual studio 2010\Projects\ATM system\ATM system\obj\x86\Debug\ATM system.pdb
+C:\Users\Elliot\documents\visual studio 2010\Projects\ATM system\ATM system\obj\x86\Debug\ATM system.csprojResolveAssemblyReference.cache
+C:\Users\Elliot\Documents\Visual Studio 2010\Projects\APRIL PROJECTS 1st semter\ATM system\ATM system\obj\x86\Debug\ATM system.exe
